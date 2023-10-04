@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nipun Katariya
-- 👀 I’m interested in web development and machine learning.
-- 🌱 I’m currently learning Flask and JavaScript.
+- 👀 I’m interested in machine learning, analytics and web development.
+- 🌱 I’m currently learning React, Flask and JavaScript.
 - 📫 You can connect with me on LinkedIn : https://www.linkedin.com/in/nipunkatariya/
 
 <!---
